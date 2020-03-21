@@ -1,4 +1,4 @@
-def longestCommonPrefix(strs):
+def longest_common_prefix(strs):
     """"
     :type strs: List[str]
     :type: str
