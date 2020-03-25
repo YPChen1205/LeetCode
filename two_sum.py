@@ -1,4 +1,9 @@
-def twoSum(nums, target):
+'''
+The idea of this sollution is intuitive
+just using two for-loop search, trick is the second loop is start from i
+to avoid repeating calling the former elements
+'''
+def two_sum(nums, target):
     """
     :type nums: List[int]
     :type target: int
@@ -12,4 +17,4 @@ def twoSum(nums, target):
                 return output
 
 if __name__ == "__main__":
-    twoSum([2, 7, 11, 15],9)
+    two_sum([2, 7, 11, 15], 9)
