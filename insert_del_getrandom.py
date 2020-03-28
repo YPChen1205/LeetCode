@@ -2,7 +2,7 @@ import random
 class RandomizedSet(object):
     '''  All the  operation should be complete in O(1)
         The idea of this sollution is using hashtable and list, where we can randomly chose an element.
-        using hash map make checking exists, adding, and removing element being done in O(1)
+        using hash_table map make checking exists, adding, and removing element being done in O(1)
         in python we can use the build_in structure Set
 
     '''
