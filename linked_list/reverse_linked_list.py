@@ -23,12 +23,12 @@ def reverse_list_recursive(head):
     :type head: ListNode
     :rtype: ListNode
     """
-    if head.next == None:
+    if head.next == None or head == None:
         return head
-    p = reverse_list_recursive(head.next)
+    new_head = reverse_list_recursive(head.next)
     head.next.next = head
     head.next = None
-    return p
+    return new_head
 
 
 if __name__ == "__main__":
