@@ -1,0 +1,14 @@
+def has_alternating_bits(n):
+    """
+    :type n: int
+    :rtype: bool
+    """
+    a = n ^ (n >> 1)
+    return a & (a + 1) == 0
+
+
+if __name__ == '__main__':
+    print(has_alternating_bits(5))
+    print(has_alternating_bits(7))
+    print(has_alternating_bits(10))
+    print(has_alternating_bits(11))

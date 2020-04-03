@@ -51,10 +51,10 @@ The overview of those problems is listed in follow. These problems are mainly di
              
 #### Array and Matrix
   1. Relate problems:   
-     * **283.M o ve Zeroes**: 
+     * **283.Move Zeroes**: 
      [problem description](https://leetcode.com/problems/move-zeroes/) | [solution](array_and_matrix/move_zeros.py)
      * 566.Reshape the Matrix: 
-     [problem description](https://leetcode.com/problems/reshape-the-matrix/description/) | solution: no need just using numpy.reshape()
+     [problem description](https://leetcode.com/problems/reshape-the-matrix/description/) | <!-- solution: no need just using numpy.reshape() -->
      * 485.Max Consecutive Ones: 
      [problem description](https://leetcode.com/problems/max-consecutive-ones/description/) | [solution](array_and_matrix/max_consecutive_ones.py)
      * 240.Search a 2D Matrix II: 
@@ -64,7 +64,7 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 645.Set Mismatch: 
      [problem description](array_and_matrix/kth_element.py) | [solution](array_and_matrix/set_mismatch.py)
      * 287.Find the Duplicate Number: 
-     [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare (Cycle Detection) Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
+     [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](array_and_matrix/beutiful_arrangement.py)
      * 697.Degree of an Array
@@ -96,19 +96,27 @@ The overview of those problems is listed in follow. These problems are mainly di
       * 268.Missing Number: 
       [problem description](https://leetcode.com/problems/missing-number/description/) | [solution](bit_operation/missing_number.py)
       * 260.Single Number III: 
-      [problem description](https://leetcode.com/problems/single-number-iii/description/) | [solution](bit_operation/single_number_iii.py)[analysis](https://cliuyang.cn/2019/02/07/AlgorithmIsBeautifulul-BitwiseOperation/)
-      * 190.Reverse Bits: 
-      [problem descripiton](https://leetcode.com/problems/reverse-bits/description/) | [solution]()  
-      * 231.Power of Two  
-      * 342.Power of Four  
-      * 693.Binary Number with Alternating Bits  
-      * 476.Number Complement  
-      * 371.Sum of Two Integers  
-      * 318.Maximum Product of Word Lengths  
-      * 338.Counting Bits  
-      [problem descripiton]() | [solution]()  
+      [problem description](https://leetcode.com/problems/single-number-iii/description/) | [solution](bit_operation/single_number_iii.py) [[analysis](https://cliuyang.cn/2019/02/07/AlgorithmIsBeautifulul-BitwiseOperation/)]
+      * `190.Reverse Bits: `
+      [problem description](https://leetcode.com/problems/reverse-bits/description/) | [solution](bit_operation/reverse_bits.py) 
+      * 231.Power of Two:
+      [problem description](https://leetcode.com/problems/power-of-two/description/) | [solution](LeetCode/bit_operation/power_of_two.py)  
+      * 342.Power of Four:
+      [problem description](https://leetcode.com/problems/power-of-four/) | [solution](bit_operation/power_of_four.py)  
+      * 693.Binary Number with Alternating Bits:
+      [problem description](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [solution](bit_operation/binary_number_with_alternatiing_bits)  
+      * 476.Number Complement:
+      [problem descripiton](https://leetcode.com/problems/number-complement/description/) | [solution](bit_operation/number_complement.py)
+      * 371.Sum of Two Integers:
+      <!-- [problem descripiton]() | [solution]() -->
+      * 318.Maximum Product of Word Lengths
+      <!-- [problem descripiton]() | [solution]() -->
+      * 338.Counting Bits
+      <!-- [problem descripiton]() | [solution]() -->
+      
 #### Tree
   1. Related problems:
+     
 #### Graph
   1. Related problems:
      * 785.Is Graph Bipartite?:
@@ -125,7 +133,7 @@ The overview of those problems is listed in follow. These problems are mainly di
 
 #### Two Pointers
   1. Related problems:
-  
+   
 #### Binary Search
   1. Related problems:
      
