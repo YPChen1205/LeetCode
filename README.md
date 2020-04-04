@@ -18,7 +18,7 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 9.Palindrome Number: 
      [problem description](https://leetcode.com/problems/palindrome-number/) | [solution](string/palindrome_number.py)
      * 696.Count Binary Substrings: 
-     [problem description](https://leetcode.com/problems/count-binary-substrings/)| [solution](string/count_binary_substrings.py)
+     [problem description](https://leetcode.com/problems/count-binary-substrings/) | [solution](string/count_binary_substrings.py)
 
 #### Linked List:
   1. [linked list basic grammar](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
@@ -67,10 +67,10 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](array_and_matrix/beutiful_arrangement.py)
-     * 697.Degree of an Array
-     * 766.Toeplitz Matrix
-     * 565.Array Nesting
-     * 769.Max Chunks To Make Sorted
+     * 697.Degree of an Array: 
+     * 766.Toeplitz Matrix: 
+     * 565.Array Nesting: 
+     * 769.Max Chunks To Make Sorted: 
 
 #### Queue and Stack
   1. Related problems:
@@ -110,9 +110,9 @@ The overview of those problems is listed in follow. These problems are mainly di
       * 371.Sum of Two Integers:
       <!-- [problem descripiton]() | [solution]() -->
       * 318.Maximum Product of Word Lengths
-      <!-- [problem descripiton]() | [solution]() -->
-      * 338.Counting Bits
-      <!-- [problem descripiton]() | [solution]() -->
+      [problem descripiton](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](bit_operation/maximum_product_of_word_lengths.py)
+      * `338.Counting Bits:`
+      [problem descripiton](https://leetcode.com/problems/counting-bits/description/) | [solution](bit_operation/counting_bits.py)
       
 #### Tree
   1. Related problems:
