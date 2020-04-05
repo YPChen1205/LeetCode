@@ -1,6 +1,6 @@
 # Python Solutions to Some Filtered Leetcode Problems<br>
 
-The overview of those problems is listed in follow. These problems are mainly divided into *data structues* and *algorithms*. The corresponding sollution can be find in the correspoinding folder
+The overview of those problems is listed in follow. These problems are mainly divided into *data structues* and *algorithms*. The corresponding sollution can be find in the correspoinding folder.
 
 ---
 ### Data structures:
@@ -34,11 +34,11 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [solution](linked_list/remove_duplicates_from_sorted_list.py)
      * 19.Remove Nth Node From End of List: 
      [problem description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [solution](linked_list/remove_nth_from_end.py)
-     * 24.Swap Nodes in Pairs
+     <!-- * 24.Swap Nodes in Pairs
      * 445.Add Two Numbers II
      * 234.Palindrome Linked List
      * 725.Split Linked List in Parts
-     * 328.Odd Even Linked List
+     * 328.Odd Even Linked List -->
 
 #### Hash Table:
   1. Related problems:
@@ -67,10 +67,10 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](array_and_matrix/beutiful_arrangement.py)
-     * 697.Degree of an Array: 
-     * 766.Toeplitz Matrix: 
-     * 565.Array Nesting: 
-     * 769.Max Chunks To Make Sorted: 
+     <!--* 697.Degree of an Array 
+     * 766.Toeplitz Matrix 
+     * 565.Array Nesting 
+     * 769.Max Chunks To Make Sorted -->
 
 #### Queue and Stack
   1. Related problems:
@@ -100,14 +100,14 @@ The overview of those problems is listed in follow. These problems are mainly di
       * `190.Reverse Bits: `
       [problem description](https://leetcode.com/problems/reverse-bits/description/) | [solution](bit_operation/reverse_bits.py) 
       * 231.Power of Two:
-      [problem description](https://leetcode.com/problems/power-of-two/description/) | [solution](LeetCode/bit_operation/power_of_two.py)  
+      [problem description](https://leetcode.com/problems/power-of-two/description/) | [solution](bit_operation/power_of_two.py)  
       * 342.Power of Four:
       [problem description](https://leetcode.com/problems/power-of-four/) | [solution](bit_operation/power_of_four.py)  
       * 693.Binary Number with Alternating Bits:
       [problem description](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [solution](bit_operation/binary_number_with_alternatiing_bits)  
       * 476.Number Complement:
       [problem descripiton](https://leetcode.com/problems/number-complement/description/) | [solution](bit_operation/number_complement.py)
-      * 371.Sum of Two Integers:
+      * 371.Sum of Two Integers
       <!-- [problem descripiton]() | [solution]() -->
       * 318.Maximum Product of Word Lengths
       [problem descripiton](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](bit_operation/maximum_product_of_word_lengths.py)
@@ -116,6 +116,17 @@ The overview of those problems is listed in follow. These problems are mainly di
       
 #### Tree
   1. Related problems:
+     * 104.Maximum Depth of Binary Tree: 
+     [problem descripiton](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](tree/maximum_depth_of_binary_tree.py)
+     * `110.Balanced Binary Tree ` :
+     [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) <!-- | [solution]() -->
+     * 543.Diameter of Binary Tree: 
+     [problem descripiton](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](tree/diameter_of_binary_tree.py)
+     * 226.Invert Binary Tree: 
+     [problem descripiton]() | [solution]()
+     * 617.Merge Two Binary Trees: 
+     [problem descripiton]() | [solution]()
+
      
 #### Graph
   1. Related problems:
@@ -130,7 +141,7 @@ The overview of those problems is listed in follow. These problems are mainly di
      
 ---
 ### Algorithms:
-
+<!-- [problem descripiton]() | [solution]() -->
 #### Two Pointers
   1. Related problems:
    
