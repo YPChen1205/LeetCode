@@ -59,7 +59,7 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/max-consecutive-ones/description/) | [solution](array_and_matrix/max_consecutive_ones.py)
      * 240.Search a 2D Matrix II: 
      [problem description](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [solution](array_and_matrix/search_2d_matrix.py)
-     * **378.Kth Smallest Element in a Sorted Matrix**
+     * **378.Kth Smallest Element in a Sorted Matrix**:
      [problem description](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [solution](array_and_matrix/kth_element.py)
      * 645.Set Mismatch: 
      [problem description](array_and_matrix/kth_element.py) | [solution](array_and_matrix/set_mismatch.py)
@@ -119,13 +119,13 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 104.Maximum Depth of Binary Tree: 
      [problem descripiton](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](tree/maximum_depth_of_binary_tree.py)
      * `110.Balanced Binary Tree ` :
-     [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) <!-- | [solution]() -->
+     [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution](tree/balanced_binary_tree.py)
      * 543.Diameter of Binary Tree: 
      [problem descripiton](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](tree/diameter_of_binary_tree.py)
      * 226.Invert Binary Tree: 
-     [problem descripiton]() | [solution]()
+     [problem descripiton](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](tree/invert_binary_tree.py)
      * 617.Merge Two Binary Trees: 
-     [problem descripiton]() | [solution]()
+     [problem descripiton](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](tree/merge_two_binary_trees.py)
 
      
 #### Graph

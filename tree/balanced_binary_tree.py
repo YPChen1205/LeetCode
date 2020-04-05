@@ -16,11 +16,11 @@ class Solution(object):
         :rtype: int
         """
         if root:
-            l = self.max_depth(self, root.left)
-            r = self.max_depth(self, root.right)
+            l = self.max_depth(root.left)
+            r = self.max_depth(root.right)
             if abs(l - r) > 1:
                 self.ans = False
-            return max(1, r) + 1
+            return max(l, r) + 1
         else:
             return 0
 
@@ -36,6 +36,9 @@ if __name__ == '__main__':
     nodes1[2].left = nodes1[3]
     nodes1[2].right = nodes1[4]
 
+    sol1 = Solution()
+    print(Solution.is_balanced(sol1, root1))
+
     nodes2 = t.TreeNode.create_nodes([1, 2, 2, 3, 3, 4, 4])
 
     root2 = nodes2[0]
@@ -46,6 +49,5 @@ if __name__ == '__main__':
     nodes2[3].left = nodes2[5]
     nodes2[3].right = nodes2[6]
 
-    # print(is_balanced(root1))
-    sol = Solution()
-    print(Solution.is_balanced(sol, root2))
+    sol2 = Solution()
+    print(Solution.is_balanced(sol2, root2))
