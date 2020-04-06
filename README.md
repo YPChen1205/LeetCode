@@ -88,7 +88,8 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/next-greater-element-ii/description/) | [solution](queue_and_stack/next_greater_element.py)
      
 #### Bits Operation
-  1. Related problems:
+  1. Related problems:  
+      Basic:  
       * 461.Hamming Distance: 
       [problem description](https://leetcode.com/problems/hamming-distance/) | [solution](bit_operation/hamming_distance.py)
       * 136.Single Number: 
@@ -127,7 +128,20 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 617.Merge Two Binary Trees: 
      [problem descripiton](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](tree/merge_two_binary_trees.py)
 
-     
+     Traverse a tree:  
+     * 637.Average of Levels in Binary Tree:  
+     [problem descripiton](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](tree/average_of_levels_in_binary_tree.py)
+     * 513.Find Bottom Left Tree Value:  
+     [problem descripiton](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](tree/find_bottom_left_tree_value.py)
+     * **144.Binary Tree Preorder Traversal:**  
+     [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](tree/binary_tree_preorder_traversal.py)
+     * 145.Binary Tree Postorder Traversal:  
+     [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](tree/binary_tree_postorder_traversal.py)
+     * **94.Binary Tree Inorder Traversal:**  
+     [problem descripiton](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](tree/binary_tree_inorder_traversal.py)
+
+
+
 #### Graph
   1. Related problems:
      * 785.Is Graph Bipartite?:

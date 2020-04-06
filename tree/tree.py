@@ -19,17 +19,4 @@ class TreeNode(object):
         if self.right:
             self.right.print_tree()
 
-# class Tree(TreeNode):
-#
-#     def __init__(self, root):
-#         self.root = root
-#
-#     def create_tree(self, nodes):
-#
-#         for node in nodes:
-#             if not self.root.left:
-#                 self.root.left = node
-#             elif not self.root.right:
-#                 self.root.right = node
-#             else:
-#                 self.create_nodes()
+
