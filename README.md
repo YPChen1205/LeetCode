@@ -158,31 +158,43 @@ The overview of those problems is listed in follow. These problems are mainly di
 
 #### Double Pointers
   1. Related problems:
-  * 167.Two Sum II: 
-  [problem descripiton](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](algorithms/double_pointers/two_sum.py)
-  * 633.Sum of Square Numbers: 
-  [problem descripiton](https://leetcode.com/problems/sum-of-square-numbers/description/) | [solution](algorithms/double_pointers/sum_of_square_numbers.py)
-  * 345.Reverse Vowels of a String: 
-  [problem descripiton](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [solution](algorithms/double_pointers/reverse_vowels_of_a_string.py)
-  * 680.Valid Palindrome II: 
-  [problem descripiton](https://leetcode.com/problems/valid-palindrome-ii/description/) | [solution](algorithms/double_pointers/valid_palindrome.py)
-  * **88.Merge Sorted Array:** 
-  [problem descripiton](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](algorithms/double_pointers/merge_sorted_array.py)
-  * 141.Linked List Cycle: 
-  [problem descripiton](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](data_structures/linked_list/linked_list_cycle.py)
-  * 524.Longest Word in Dictionary through Deleting: 
-  [problem descripiton](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
-  
-   
+      * 167.Two Sum II: 
+      [problem descripiton](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](algorithms/double_pointers/two_sum.py)
+      * 633.Sum of Square Numbers: 
+      [problem descripiton](https://leetcode.com/problems/sum-of-square-numbers/description/) | [solution](algorithms/double_pointers/sum_of_square_numbers.py)
+      * 345.Reverse Vowels of a String: 
+      [problem descripiton](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [solution](algorithms/double_pointers/reverse_vowels_of_a_string.py)
+      * 680.Valid Palindrome II: 
+      [problem descripiton](https://leetcode.com/problems/valid-palindrome-ii/description/) | [solution](algorithms/double_pointers/valid_palindrome.py)
+      * **88.Merge Sorted Array:** 
+      [problem descripiton](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](algorithms/double_pointers/merge_sorted_array.py)
+      * 141.Linked List Cycle: 
+      [problem descripiton](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](data_structures/linked_list/linked_list_cycle.py)
+      * 524.Longest Word in Dictionary through Deleting: 
+      [problem descripiton](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
+      
+       
 #### Binary Search
-<!-- [problem descripiton]() | [solution]() -->
   1. Related problems:
-     
+     * 69.Sqrt(x): 
+     [problem descripiton](https://leetcode.com/problems/sqrtx/description/) | [solution](algorithms/binary_search/sqrt_x.py)
+     * 744.Find Smallest Letter Greater Than Target: 
+     [problem descripiton](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [solution](algorithms/binary_search/next_greatest_letter.py)
+     * **540.Single Element in a Sorted Array:** 
+     [problem descripiton](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [solution](algorithms/binary_search/single_non_duplicate.py)
+     * 278.First Bad Version:
+     [problem descripiton](https://leetcode.com/problems/first-bad-version/description/) | [solution](algorithms/binary_search/first_bad_version.py)
+     * **153.Find Minimum in Rotated Sorted Array:** 
+     [problem descripiton](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](algorithms/binary_search/find_minimum in_rotated_sorted_array.py)
+     * **34.Find First and Last Position of Element in Sorted Array:** 
+     [problem descripiton](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](algorithms/binary_search/search_range.py)
 #### Sorting
+<!-- [problem descripiton]() | [solution]() -->
   1. Related problems:
 
 #### Divide and Conque
   1. Related problems:
+       
        
 #### Greedy Algorithm
   1. Related problems:
