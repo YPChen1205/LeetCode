@@ -1,6 +1,6 @@
 # Python Solutions to Some Filtered Leetcode Problems<br>
 
-The overview of those problems is listed in follow. These problems are mainly divided into *data structues* and *algorithms*. The corresponding sollution can be find in the correspoinding folder.
+The overview of those problems is listed in follow. These problems numsre mainly divided into *data structues* and *algorithms*. The corresponding sollution can be find in the correspoinding folder.
 
 ---
 ### Data structures:
@@ -185,14 +185,23 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 278.First Bad Version:
      [problem descripiton](https://leetcode.com/problems/first-bad-version/description/) | [solution](algorithms/binary_search/first_bad_version.py)
      * **153.Find Minimum in Rotated Sorted Array:** 
-     [problem descripiton](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](algorithms/binary_search/find_minimum in_rotated_sorted_array.py)
+     [problem descripiton](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](algorithms/binary_search/find_minimum_in_rotated_sorted_array.py)
      * **34.Find First and Last Position of Element in Sorted Array:** 
      [problem descripiton](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](algorithms/binary_search/search_range.py)
-#### Sorting
-<!-- [problem descripiton]() | [solution]() -->
+
+#### `Sorting`
   1. Related problems:
+     * `215.Kth Largest Element in an Array:`
+     [problem descripiton](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](algorithms/sorting/kth_largest_element.py)
+     * 347.Top K Frequent Elements:
+     [problem descripiton](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](algorithms/sorting/top_k_frequent_elements.py)
+     * 451.Sort Characters By Frequency:
+     [problem descripiton](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [solution](algorithms/sorting/sort_characters_by_frequency.py)
+     * 75.Sort Colors:
+     [problem descripiton](https://leetcode.com/problems/sort-colors/description/) | [solution](algorithms/sorting/sort_colors.py)
 
 #### Divide and Conque
+<!-- [problem descripiton]() | [solution]() -->
   1. Related problems:
        
        
