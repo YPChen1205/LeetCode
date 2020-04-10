@@ -67,10 +67,14 @@ The overview of those problems is listed in follow. These problems numsre mainly
      [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](data_structures/array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](data_structures/array_and_matrix/beutiful_arrangement.py)
-     <!--* 697.Degree of an Array 
-     * 766.Toeplitz Matrix 
-     * 565.Array Nesting 
-     * 769.Max Chunks To Make Sorted -->
+     * 697.Degree of an Array:  
+     [problem descripiton](https://leetcode.com/problems/degree-of-an-array/description/) | [solution](data_structures/array_and_matrix/degree_of_an_array.py)
+     * 766.Toeplitz Matrix:  
+     [problem descripiton](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](data_structures/array_and_matrix/toeplitz_matrix.py)
+     * 565.Array Nesting: 
+     [problem descripiton](https://leetcode.com/problems/array-nesting/description/) | [solution](data_structures/array_and_matrix/array_nesting.py)
+     * `769.Max Chunks To Make Sorted:` 
+     [problem descripiton](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [solution](data_structures/array_and_matrix/max_chunks_to_make_sorted.py)
 
 #### Queue and Stack
   1. Related problems:
@@ -200,12 +204,15 @@ The overview of those problems is listed in follow. These problems numsre mainly
      * 75.Sort Colors:
      [problem descripiton](https://leetcode.com/problems/sort-colors/description/) | [solution](algorithms/sorting/sort_colors.py)
 
-#### Divide and Conque
-<!-- [problem descripiton]() | [solution]() -->
+#### Divide and Conquer
   1. Related problems:
-       
+     * 241.Different Ways to Add Parentheses: 
+     [problem descripiton](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [solution](algorithms/divide_and_conquer/different_ways_to_add_parentheses.py)
+     * **95.Unique Binary Search Trees II:** 
+     [problem descripiton](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](algorithms/divide_and_conquer/unique_binary_search_trees.py)
        
 #### Greedy Algorithm
+<!-- [problem descripiton]() | [solution]() -->
   1. Related problems:
    
 #### Dynamic Programming
