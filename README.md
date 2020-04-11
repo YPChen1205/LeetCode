@@ -67,9 +67,9 @@ The overview of those problems is listed in follow. These problems numsre mainly
      [problem description](https://leetcode.com/problems/find-the-duplicate-number/) | [solution](data_structures/array_and_matrix/find_duplicate_number.py) [[Floyd's Tortoise and Hare Algorithm anlaysis](https://blog.csdn.net/u012482487/article/details/49798169)]
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](data_structures/array_and_matrix/beutiful_arrangement.py)
-     * 697.Degree of an Array:  
+     * 697.Degree of an Array: 
      [problem descripiton](https://leetcode.com/problems/degree-of-an-array/description/) | [solution](data_structures/array_and_matrix/degree_of_an_array.py)
-     * 766.Toeplitz Matrix:  
+     * 766.Toeplitz Matrix: 
      [problem descripiton](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](data_structures/array_and_matrix/toeplitz_matrix.py)
      * 565.Array Nesting: 
      [problem descripiton](https://leetcode.com/problems/array-nesting/description/) | [solution](data_structures/array_and_matrix/array_nesting.py)
@@ -176,7 +176,30 @@ The overview of those problems is listed in follow. These problems numsre mainly
       [problem descripiton](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](data_structures/linked_list/linked_list_cycle.py)
       * 524.Longest Word in Dictionary through Deleting: 
       [problem descripiton](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
+ 
+#### Search
+   1. `BFS`
+      * 1091.Shortest Path in Binary Matrix: 
+      [problem descripiton](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [solution](algorithms/search/BFS/shortest_path_in_binary_matrix.py)
+      * 279.Perfect Squares: 
+      [problem descripiton](https://leetcode.com/problems/perfect-squares/description/) | [solution](algorithms/search/BFS/perfect_squares.py)
+      * 127.Word Ladder: 
+      [problem descripiton](https://leetcode.com/problems/word-ladder/description/) | [solution](algorithms/search/BFS/word_ladder.py)
+   
+   2. DFS
+      * 695.Max Area of Island: 
+      [problem descripiton]() | [solution]()
+      * 200.Number of Islands: 
+      [problem descripiton]() | [solution]()
+      * 547.Friend Circles: 
+      [problem descripiton]() | [solution]()
+      * 130.Surrounded Regions: 
+      [problem descripiton]() | [solution]()
+      * 417.Pacific Atlantic Water Flow: 
+      [problem descripiton]() | [solution]()
       
+   3. Backtracking
+     
        
 #### Binary Search
   1. Related problems:
@@ -214,6 +237,7 @@ The overview of those problems is listed in follow. These problems numsre mainly
 #### Greedy Algorithm
 <!-- [problem descripiton]() | [solution]() -->
   1. Related problems:
+  
    
 #### Dynamic Programming
   1. Related problems:
