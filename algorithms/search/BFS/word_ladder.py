@@ -16,12 +16,10 @@ def ladder_length(begin_word, end_word, word_list):
     # all words are of same length.
     word_len = len(begin_word)
 
-
     all_combo_dict = defaultdict(list)
+
     for word in word_list:
         for i in range(word_len):
-            # Key is the generic word
-            # Value is a list of words which have the same intermediate generic word.
             all_combo_dict[word[:i] + "*" + word[i + 1:]].append(word)
 
     queue = collections.deque([(begin_word, 1)])

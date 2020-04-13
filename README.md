@@ -178,7 +178,7 @@ The overview of those problems is listed in follow. These problems numsre mainly
       [problem descripiton](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
  
 #### Search
-   1. `BFS`
+   1. **BFS**
       * 1091.Shortest Path in Binary Matrix: 
       [problem descripiton](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [solution](algorithms/search/BFS/shortest_path_in_binary_matrix.py)
       * 279.Perfect Squares: 
@@ -188,15 +188,15 @@ The overview of those problems is listed in follow. These problems numsre mainly
    
    2. DFS
       * 695.Max Area of Island: 
-      [problem descripiton]() | [solution]()
+      [problem descripiton](https://leetcode.com/problems/max-area-of-island/description/) | [solution](algorithms/search/DFS/max_area_of_island.py)
       * 200.Number of Islands: 
-      [problem descripiton]() | [solution]()
+      [problem descripiton](https://leetcode.com/problems/number-of-islands/description/) | [solution](algorithms/search/DFS/number_of_islands.py)
       * 547.Friend Circles: 
-      [problem descripiton]() | [solution]()
+      [problem descripiton](https://leetcode.com/problems/friend-circles/description/) | [solution](algorithms/search/DFS/friend_circle.py)
       * 130.Surrounded Regions: 
-      [problem descripiton]() | [solution]()
+      [problem descripiton](https://leetcode.com/problems/surrounded-regions/description/) | [solution](algorithms/search/DFS/surrounded_regions.py)
       * 417.Pacific Atlantic Water Flow: 
-      [problem descripiton]() | [solution]()
+      [problem descripiton](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) <!-- | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) -->
       
    3. Backtracking
      
@@ -216,9 +216,9 @@ The overview of those problems is listed in follow. These problems numsre mainly
      * **34.Find First and Last Position of Element in Sorted Array:** 
      [problem descripiton](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](algorithms/binary_search/search_range.py)
 
-#### `Sorting`
+#### **Sorting**
   1. Related problems:
-     * `215.Kth Largest Element in an Array:`
+     * 215.Kth Largest Element in an Array:
      [problem descripiton](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](algorithms/sorting/kth_largest_element.py)
      * 347.Top K Frequent Elements:
      [problem descripiton](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](algorithms/sorting/top_k_frequent_elements.py)
@@ -248,3 +248,4 @@ The overview of those problems is listed in follow. These problems numsre mainly
 
 
 The flitered list comes from [CyC2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
+you can find the java solution for this problem lists there.
