@@ -195,14 +195,22 @@ The overview of those problems is listed in follow. These problems numsre mainly
       [problem descripiton](https://leetcode.com/problems/friend-circles/description/) | [solution](algorithms/search/DFS/friend_circle.py)
       * 130.Surrounded Regions: 
       [problem descripiton](https://leetcode.com/problems/surrounded-regions/description/) | [solution](algorithms/search/DFS/surrounded_regions.py)
-      * 417.Pacific Atlantic Water Flow: 
-      [problem descripiton](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) <!-- | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) -->
+      * 417.Pacific Atlantic Water Flow:
+      [problem descripiton](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) 
       
    3. Backtracking
-     
-       
-#### Binary Search
-  1. Related problems:
+      * 17.Letter Combinations of a Phone Number: 
+      [problem descripiton](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](algorithms/search/Backtracking/letter_combinations_of_a_phone_number.py)
+      * 93.Restore IP Addresses: not so important, just a practise
+      [problem descripiton](https://leetcode.com/problems/restore-ip-addresses/description/) | [solution](algorithms/search/Backtracking/restore_ip_address.py)
+      * 79.Word Search: 
+      [problem descripiton](https://leetcode.com/problems/word-search/description/) | [solution](algorithms/search/Backtracking/word_search.py)
+      * 257.Binary Tree Paths: 
+      [problem descripiton](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](algorithms/search/Backtracking/binary_tree_path.py)
+      * 46.Permutations: 
+      [problem descripiton](https://leetcode.com/problems/permutations/description/) | [solution](algorithms/search/Backtracking/permutation.py)
+            
+   4. Binary Search
      * 69.Sqrt(x): 
      [problem descripiton](https://leetcode.com/problems/sqrtx/description/) | [solution](algorithms/binary_search/sqrt_x.py)
      * 744.Find Smallest Letter Greater Than Target: 
@@ -247,5 +255,5 @@ The overview of those problems is listed in follow. These problems numsre mainly
 
 
 
-The flitered list comes from [CyC2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
-you can find the java solution for this problem lists there.
+The flitered list comes from [CyC2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md).
+you can also find the java solutions for this problem list there.

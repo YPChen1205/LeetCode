@@ -43,7 +43,8 @@ class Solution(object):
         for d in self.direction:
             next_i = i + d[0]
             next_j = j + d[1]
-            if not (0 <= next_i < self.m and 0 <= next_j < self.n and self.matrix[i][j] >= self.matrix[next_i][next_j]):
+            if not (0 <= next_i < self.m and 0 <= next_j < self.n and self.matrix[i][j] <= self.matrix[next_i][next_j]):
+                # pay attention to the condition because we start from border so matrix[i][j] should be <= matrix[next_i][next_j]
                 continue
             self.dfs(next_i, next_j, reach)
 
