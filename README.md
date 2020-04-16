@@ -92,55 +92,56 @@ The overview of those problems is listed in follow. These problems numsre mainly
      [problem description](https://leetcode.com/problems/next-greater-element-ii/description/) | [solution](data_structures/queue_and_stack/next_greater_element.py)
      
 #### Bits Operation
-  * 461.Hamming Distance: 
-  [problem description](https://leetcode.com/problems/hamming-distance/) | [solution](data_structures/bit_operation/hamming_distance.py)
-  * 136.Single Number: 
-  [problem description](https://leetcode.com/problems/single-number/description/) | [solution](data_structures/bit_operation/single_number.py)
-  * 268.Missing Number: 
-  [problem description](https://leetcode.com/problems/missing-number/description/) | [solution](data_structures/bit_operation/missing_number.py)
-  * 260.Single Number III: 
-  [problem description](https://leetcode.com/problems/single-number-iii/description/) | [solution](data_structures/bit_operation/single_number_iii.py) [[analysis](https://cliuyang.cn/2019/02/07/AlgorithmIsBeautifulul-BitwiseOperation/)]
-  * `190.Reverse Bits: `
-  [problem description](https://leetcode.com/problems/reverse-bits/description/) | [solution](data_structures/bit_operation/reverse_bits.py) 
-  * 231.Power of Two:
-  [problem description](https://leetcode.com/problems/power-of-two/description/) | [solution](data_structures/bit_operation/power_of_two.py)  
-  * 342.Power of Four:
-  [problem description](https://leetcode.com/problems/power-of-four/) | [solution](data_structures/bit_operation/power_of_four.py)  
-  * 693.Binary Number with Alternating Bits:
-  [problem description](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [solution](data_structures/bit_operation/binary_number_with_alternatiing_bits)  
-  * 476.Number Complement:
-  [problem descripiton](https://leetcode.com/problems/number-complement/description/) | [solution](data_structures/bit_operation/number_complement.py)
-  * 371.Sum of Two Integers
-  <!-- [problem descripiton]() | [solution]() -->
-  * 318.Maximum Product of Word Lengths
-  [problem descripiton](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](data_structures/bit_operation/maximum_product_of_word_lengths.py)
-  * `338.Counting Bits:`
-  [problem descripiton](https://leetcode.com/problems/counting-bits/description/) | [solution](data_structures/bit_operation/counting_bits.py)
-  
+   1. Problems:
+      * 461.Hamming Distance: 
+      [problem description](https://leetcode.com/problems/hamming-distance/) | [solution](data_structures/bit_operation/hamming_distance.py)
+      * 136.Single Number: 
+      [problem description](https://leetcode.com/problems/single-number/description/) | [solution](data_structures/bit_operation/single_number.py)
+      * 268.Missing Number: 
+      [problem description](https://leetcode.com/problems/missing-number/description/) | [solution](data_structures/bit_operation/missing_number.py)
+      * 260.Single Number III: 
+      [problem description](https://leetcode.com/problems/single-number-iii/description/) | [solution](data_structures/bit_operation/single_number_iii.py) [[analysis](https://cliuyang.cn/2019/02/07/AlgorithmIsBeautifulul-BitwiseOperation/)]
+      * `190.Reverse Bits: `
+      [problem description](https://leetcode.com/problems/reverse-bits/description/) | [solution](data_structures/bit_operation/reverse_bits.py) 
+      * 231.Power of Two:
+      [problem description](https://leetcode.com/problems/power-of-two/description/) | [solution](data_structures/bit_operation/power_of_two.py)  
+      * 342.Power of Four:
+      [problem description](https://leetcode.com/problems/power-of-four/) | [solution](data_structures/bit_operation/power_of_four.py)  
+      * 693.Binary Number with Alternating Bits:
+      [problem description](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [solution](data_structures/bit_operation/binary_number_with_alternatiing_bits)  
+      * 476.Number Complement:
+      [problem descripiton](https://leetcode.com/problems/number-complement/description/) | [solution](data_structures/bit_operation/number_complement.py)
+      * 371.Sum of Two Integers
+      <!-- [problem descripiton]() | [solution]() -->
+      * 318.Maximum Product of Word Lengths
+      [problem descripiton](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](data_structures/bit_operation/maximum_product_of_word_lengths.py)
+      * `338.Counting Bits:`
+      [problem descripiton](https://leetcode.com/problems/counting-bits/description/) | [solution](data_structures/bit_operation/counting_bits.py)
+      
 #### Tree  
    1. Basic:  
-     * 104.Maximum Depth of Binary Tree: 
-     [problem descripiton](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](data_structures/tree/maximum_depth_of_binary_tree.py)
-     * `110.Balanced Binary Tree ` :
-     [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution](data_structures/tree/balanced_binary_tree.py)
-     * 543.Diameter of Binary Tree: 
-     [problem descripiton](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](data_structures/tree/diameter_of_binary_tree.py)
-     * 226.Invert Binary Tree: 
-     [problem descripiton](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)
-     * 617.Merge Two Binary Trees: 
-     [problem descripiton](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)
+      * 104.Maximum Depth of Binary Tree: 
+      [problem descripiton](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](data_structures/tree/maximum_depth_of_binary_tree.py)  
+      * `110.Balanced Binary Tree ` :
+      [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution](data_structures/tree/balanced_binary_tree.py)  
+      * 543.Diameter of Binary Tree: 
+      [problem descripiton](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](data_structures/tree/diameter_of_binary_tree.py)  
+      * 226.Invert Binary Tree: 
+      [problem descripiton](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)  
+      * 617.Merge Two Binary Trees: 
+      [problem descripiton](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)  
 
    2. Traverse a tree:  
-     * 637.Average of Levels in Binary Tree:
-     [problem descripiton](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)
-     * 513.Find Bottom Left Tree Value:
-     [problem descripiton](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)
-     * **144.Binary Tree Preorder Traversal:**
-     [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py)
-     * 145.Binary Tree Postorder Traversal:
-     [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)
-     * **94.Binary Tree Inorder Traversal:**
-     [problem descripiton](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)
+      * 637.Average of Levels in Binary Tree:
+      [problem descripiton](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)  
+      * 513.Find Bottom Left Tree Value:
+      [problem descripiton](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)  
+      * **144.Binary Tree Preorder Traversal:**
+      [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py)  
+      * 145.Binary Tree Postorder Traversal:
+      [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)  
+      * **94.Binary Tree Inorder Traversal:**
+      [problem descripiton](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)  
 
 
 
@@ -254,21 +255,19 @@ The overview of those problems is listed in follow. These problems numsre mainly
      [problem descripiton](LeetCode/algorithms/greedy_algorithm/min_num_arrows.py) <!--| [solution]()-->
      * 121.Best Time to Buy and Sell Stock: 
      [problem descripiton](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
-     * 122.Best Time to Buy and Sell Stock II: 
+     * **122.Best Time to Buy and Sell Stock II:** 
      [problem descripiton](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
      * 605.Can Place Flowers: 
-     [problem descripiton]() | [solution]()
-     * 392.Is Subsequence: 
-     [problem descripiton]() | [solution]()
-     * 665.Non-decreasing Arra: 
-     [problem descripiton]() | [solution]()
+     [problem descripiton](https://leetcode.com/problems/can-place-flowers/description/) | [solution](algorithms/greedy_algorithm/can_place_flowers.py)
+     * **392.Is Subsequence:** 
+     [problem descripiton](https://leetcode.com/problems/is-subsequence/description/) | [solution](algorithms/greedy_algorithm/is_subsequence.py)
+     * **665.Non-decreasing Array:** 
+     [problem descripiton](https://leetcode.com/problems/non-decreasing-array/description/) | [solution](algorithms/greedy_algorithm/non_decreasing_array.py)
      * 53.Maximum Subarray: 
-     [problem descripiton]() | [solution]()
-     * 763.Partition Labels: 
-     [problem descripiton]() | [solution]() 
-
-<!-- [problem descripiton]() | [solution]() -->
-   
+     [problem descripiton](https://leetcode.com/problems/maximum-subarray/description/) | [solution](algorithms/greedy_algorithm/max_subarray.py)
+     * **763.Partition Labels:**
+     [problem descripiton](https://leetcode.com/problems/partition-labels/description/) | [solution](algorithms/greedy_algorithm/partition_label.py) 
+     
 #### Dynamic Programming
   1. Related problems:
 <!-- [problem descripiton]() | [solution]() -->
