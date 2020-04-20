@@ -1,12 +1,12 @@
 # Python Solutions to Some Filtered Leetcode Problems<br>
 
-The overview of those problems is listed in follow. These problems numsre mainly divided into *data structues* and *algorithms*. The corresponding sollution can be find in the correspoinding folder.
+The overview of those problems is listed in follow. These problems are mainly divided into two parts, **data structues** and **algorithms**. The codes can be find in the corresponding folder in this repository.
 
 ---
 ### Data structures:
     
 #### String:
-  1. Related problems:
+  1. Problem and Solution:
      * 242.Valid Anagram: 
      [problem description](https://leetcode.com/problems/valid-anagram/) | [solution](data_structures/string/valid_anagram.py)
      * 409.Longest Palindrome: 
@@ -23,7 +23,7 @@ The overview of those problems is listed in follow. These problems numsre mainly
 #### Linked List:
   1. [linked list basic grammar](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
  
-  2. Related problems:  
+  2. Problem and Solution:  
      * 160.Intersection of Two Linked Lists : 
      [problem description](https://leetcode.com/problems/intersection-of-two-linked-lists) | [solution](data_structures/linked_list/intersection_two_linked_lists.py)
      * `206. Reverse Linked List`: 
@@ -41,7 +41,7 @@ The overview of those problems is listed in follow. These problems numsre mainly
      * 328.Odd Even Linked List -->
 
 #### Hash Table:
-  1. Related problems:
+  1. Problem and Solution:
       * 1.Two Sum: 
      [problem description](https://leetcode.com/problems/two-sum/) | [solution](data_structures/hash_table/two_sum.py)
       * 594.Longest Harmonious Subsequence: 
@@ -50,7 +50,7 @@ The overview of those problems is listed in follow. These problems numsre mainly
      [problem description](https://leetcode.com/problems/longest-consecutive-sequence/) | [solution](data_structures/hash_table/longest_consecutive_sequence.py)
              
 #### Array and Matrix
-  1. Relate problems:   
+  1. Problem and Solution:   
      * **283.Move Zeroes**: 
      [problem description](https://leetcode.com/problems/move-zeroes/) | [solution](data_structures/array_and_matrix/move_zeros.py)
      * 566.Reshape the Matrix: 
@@ -68,16 +68,16 @@ The overview of those problems is listed in follow. These problems numsre mainly
      * 667.Beautiful Arrangement II: 
      [problem description](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [solution](data_structures/array_and_matrix/beutiful_arrangement.py)
      * 697.Degree of an Array: 
-     [problem descripiton](https://leetcode.com/problems/degree-of-an-array/description/) | [solution](data_structures/array_and_matrix/degree_of_an_array.py)
+     [problem description](https://leetcode.com/problems/degree-of-an-array/description/) | [solution](data_structures/array_and_matrix/degree_of_an_array.py)
      * 766.Toeplitz Matrix: 
-     [problem descripiton](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](data_structures/array_and_matrix/toeplitz_matrix.py)
+     [problem description](https://leetcode.com/problems/toeplitz-matrix/description/) | [solution](data_structures/array_and_matrix/toeplitz_matrix.py)
      * 565.Array Nesting: 
-     [problem descripiton](https://leetcode.com/problems/array-nesting/description/) | [solution](data_structures/array_and_matrix/array_nesting.py)
+     [problem description](https://leetcode.com/problems/array-nesting/description/) | [solution](data_structures/array_and_matrix/array_nesting.py)
      * `769.Max Chunks To Make Sorted:` 
-     [problem descripiton](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [solution](data_structures/array_and_matrix/max_chunks_to_make_sorted.py)
+     [problem description](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [solution](data_structures/array_and_matrix/max_chunks_to_make_sorted.py)
 
 #### Queue and Stack
-  1. Related problems:
+  1. Problem and Solution:
      * 232.Implement Queue using Stacks:
      [problem description](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](data_structures/queue_and_stack/queue_using_stacks.py)
      * 225.Implement Stack using Queues:
@@ -110,43 +110,43 @@ The overview of those problems is listed in follow. These problems numsre mainly
       * 693.Binary Number with Alternating Bits:
       [problem description](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [solution](data_structures/bit_operation/binary_number_with_alternatiing_bits)  
       * 476.Number Complement:
-      [problem descripiton](https://leetcode.com/problems/number-complement/description/) | [solution](data_structures/bit_operation/number_complement.py)
+      [problem description](https://leetcode.com/problems/number-complement/description/) | [solution](data_structures/bit_operation/number_complement.py)
       * 371.Sum of Two Integers
-      <!-- [problem descripiton]() | [solution]() -->
+      <!-- [problem description]() | [solution]() -->
       * 318.Maximum Product of Word Lengths
-      [problem descripiton](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](data_structures/bit_operation/maximum_product_of_word_lengths.py)
+      [problem description](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [solution](data_structures/bit_operation/maximum_product_of_word_lengths.py)
       * `338.Counting Bits:`
-      [problem descripiton](https://leetcode.com/problems/counting-bits/description/) | [solution](data_structures/bit_operation/counting_bits.py)
+      [problem description](https://leetcode.com/problems/counting-bits/description/) | [solution](data_structures/bit_operation/counting_bits.py)
       
 #### Tree  
    1. Basic:  
       * 104.Maximum Depth of Binary Tree: 
-      [problem descripiton](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](data_structures/tree/maximum_depth_of_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](data_structures/tree/maximum_depth_of_binary_tree.py)  
       * `110.Balanced Binary Tree ` :
-      [problem descripiton](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution](data_structures/tree/balanced_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/balanced-binary-tree/description/) | [solution](data_structures/tree/balanced_binary_tree.py)  
       * 543.Diameter of Binary Tree: 
-      [problem descripiton](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](data_structures/tree/diameter_of_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [solution](data_structures/tree/diameter_of_binary_tree.py)  
       * 226.Invert Binary Tree: 
-      [problem descripiton](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)  
       * 617.Merge Two Binary Trees: 
-      [problem descripiton](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)  
+      [problem description](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)  
 
    2. Traverse a tree:  
       * 637.Average of Levels in Binary Tree:
-      [problem descripiton](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)  
       * 513.Find Bottom Left Tree Value:
-      [problem descripiton](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)  
+      [problem description](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)  
       * **144.Binary Tree Preorder Traversal:**
-      [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py)  
       * 145.Binary Tree Postorder Traversal:
-      [problem descripiton](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)  
       * **94.Binary Tree Inorder Traversal:**
-      [problem descripiton](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)  
 
 
 
 #### Graph
-  1. Related problems:
+  1. Problem and Solution:
      * 785.Is Graph Bipartite?:
      [problem description](https://leetcode.com/problems/is-graph-bipartite/) | [solution](data_structures/graph/is_bipartite.py)  
      * 207.Course Schedule:
@@ -160,121 +160,135 @@ The overview of those problems is listed in follow. These problems numsre mainly
 ### Algorithms:
 
 #### Double Pointers
-  1. Related problems:
+  1. Problem and Solution:
       * 167.Two Sum II: 
-      [problem descripiton](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](algorithms/double_pointers/two_sum.py)
+      [problem description](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](algorithms/double_pointers/two_sum.py)
       * 633.Sum of Square Numbers: 
-      [problem descripiton](https://leetcode.com/problems/sum-of-square-numbers/description/) | [solution](algorithms/double_pointers/sum_of_square_numbers.py)
+      [problem description](https://leetcode.com/problems/sum-of-square-numbers/description/) | [solution](algorithms/double_pointers/sum_of_square_numbers.py)
       * 345.Reverse Vowels of a String: 
-      [problem descripiton](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [solution](algorithms/double_pointers/reverse_vowels_of_a_string.py)
+      [problem description](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [solution](algorithms/double_pointers/reverse_vowels_of_a_string.py)
       * 680.Valid Palindrome II: 
-      [problem descripiton](https://leetcode.com/problems/valid-palindrome-ii/description/) | [solution](algorithms/double_pointers/valid_palindrome.py)
+      [problem description](https://leetcode.com/problems/valid-palindrome-ii/description/) | [solution](algorithms/double_pointers/valid_palindrome.py)
       * **88.Merge Sorted Array:** 
-      [problem descripiton](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](algorithms/double_pointers/merge_sorted_array.py)
+      [problem description](https://leetcode.com/problems/merge-sorted-array/description/) | [solution](algorithms/double_pointers/merge_sorted_array.py)
       * 141.Linked List Cycle: 
-      [problem descripiton](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](data_structures/linked_list/linked_list_cycle.py)
+      [problem description](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](data_structures/linked_list/linked_list_cycle.py)
       * 524.Longest Word in Dictionary through Deleting: 
-      [problem descripiton](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
+      [problem description](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [solution](algorithms/double_pointers/longest_word_in_dictionary_through_deleting.py)
  
 #### Search
    1. **BFS**
       * 1091.Shortest Path in Binary Matrix: 
-      [problem descripiton](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [solution](algorithms/search/BFS/shortest_path_in_binary_matrix.py)
+      [problem description](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [solution](algorithms/search/BFS/shortest_path_in_binary_matrix.py)
       * 279.Perfect Squares: 
-      [problem descripiton](https://leetcode.com/problems/perfect-squares/description/) | [solution](algorithms/search/BFS/perfect_squares.py)
+      [problem description](https://leetcode.com/problems/perfect-squares/description/) | [solution](algorithms/search/BFS/perfect_squares.py)
       * 127.Word Ladder: 
-      [problem descripiton](https://leetcode.com/problems/word-ladder/description/) | [solution](algorithms/search/BFS/word_ladder.py)
+      [problem description](https://leetcode.com/problems/word-ladder/description/) | [solution](algorithms/search/BFS/word_ladder.py)
    
    2. DFS
       * 695.Max Area of Island: 
-      [problem descripiton](https://leetcode.com/problems/max-area-of-island/description/) | [solution](algorithms/search/DFS/max_area_of_island.py)
+      [problem description](https://leetcode.com/problems/max-area-of-island/description/) | [solution](algorithms/search/DFS/max_area_of_island.py)
       * 200.Number of Islands: 
-      [problem descripiton](https://leetcode.com/problems/number-of-islands/description/) | [solution](algorithms/search/DFS/number_of_islands.py)
+      [problem description](https://leetcode.com/problems/number-of-islands/description/) | [solution](algorithms/search/DFS/number_of_islands.py)
       * 547.Friend Circles: 
-      [problem descripiton](https://leetcode.com/problems/friend-circles/description/) | [solution](algorithms/search/DFS/friend_circle.py)
+      [problem description](https://leetcode.com/problems/friend-circles/description/) | [solution](algorithms/search/DFS/friend_circle.py)
       * 130.Surrounded Regions: 
-      [problem descripiton](https://leetcode.com/problems/surrounded-regions/description/) | [solution](algorithms/search/DFS/surrounded_regions.py)
+      [problem description](https://leetcode.com/problems/surrounded-regions/description/) | [solution](algorithms/search/DFS/surrounded_regions.py)
       * 417.Pacific Atlantic Water Flow:
-      [problem descripiton](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) 
-      <!-- [problem descripiton]() | [solution]() -->
+      [problem description](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) 
+      <!-- [problem description]() | [solution]() -->
       
    3. Backtracking
       * 17.Letter Combinations of a Phone Number: 
-      [problem descripiton](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](algorithms/search/Backtracking/letter_combinations_of_a_phone_number.py)
+      [problem description](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](algorithms/search/Backtracking/letter_combinations_of_a_phone_number.py)
       * 93.Restore IP Addresses(not important):
-      [problem descripiton](https://leetcode.com/problems/restore-ip-addresses/description/) | [solution](algorithms/search/Backtracking/restore_ip_address.py)
+      [problem description](https://leetcode.com/problems/restore-ip-addresses/description/) | [solution](algorithms/search/Backtracking/restore_ip_address.py)
       * 79.Word Search: 
-      [problem descripiton](https://leetcode.com/problems/word-search/description/) | [solution](algorithms/search/Backtracking/word_search.py)
+      [problem description](https://leetcode.com/problems/word-search/description/) | [solution](algorithms/search/Backtracking/word_search.py)
       * 257.Binary Tree Paths: 
-      [problem descripiton](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](algorithms/search/Backtracking/binary_tree_path.py)
+      [problem description](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](algorithms/search/Backtracking/binary_tree_path.py)
       * 46.Permutations: 
-      [problem descripiton](https://leetcode.com/problems/permutations/description/) | [solution](algorithms/search/Backtracking/permutation.py)
-      <!-- [problem descripiton]() | [solution]() -->
+      [problem description](https://leetcode.com/problems/permutations/description/) | [solution](algorithms/search/Backtracking/permutation.py)
+      <!-- [problem description]() | [solution]() -->
           
    4. Binary Search
       * 69.Sqrt(x): 
-      [problem descripiton](https://leetcode.com/problems/sqrtx/description/) | [solution](algorithms/search/binary_search/sqrt_x.py)
+      [problem description](https://leetcode.com/problems/sqrtx/description/) | [solution](algorithms/search/binary_search/sqrt_x.py)
       * 744.Find Smallest Letter Greater Than Target: 
-      [problem descripiton](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [solution](algorithms/search/binary_search/next_greatest_letter.py)
+      [problem description](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [solution](algorithms/search/binary_search/next_greatest_letter.py)
       * **540.Single Element in a Sorted Array:** 
-      [problem descripiton](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [solution](algorithms/search/binary_search/single_non_duplicate.py)
+      [problem description](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [solution](algorithms/search/binary_search/single_non_duplicate.py)
       * 278.First Bad Version:
-      [problem descripiton](https://leetcode.com/problems/first-bad-version/description/) | [solution](algorithms/search/binary_search/first_bad_version.py)
+      [problem description](https://leetcode.com/problems/first-bad-version/description/) | [solution](algorithms/search/binary_search/first_bad_version.py)
       * **153.Find Minimum in Rotated Sorted Array:** 
-      [problem descripiton](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](algorithms/search/binary_search/find_minimum_in_rotated_sorted_array.py)
+      [problem description](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [solution](algorithms/search/binary_search/find_minimum_in_rotated_sorted_array.py)
       * **34.Find First and Last Position of Element in Sorted Array:** 
-      [problem descripiton](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](algorithms/search/binary_search/search_range.py)
+      [problem description](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](algorithms/search/binary_search/search_range.py)
       
 #### **Sorting**
-  1. Related problems:
+  1. Problem and Solution:
      * 215.Kth Largest Element in an Array:
-     [problem descripiton](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](algorithms/sorting/kth_largest_element.py)
+     [problem description](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [solution](algorithms/sorting/kth_largest_element.py)
      * 347.Top K Frequent Elements:
-     [problem descripiton](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](algorithms/sorting/top_k_frequent_elements.py)
+     [problem description](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](algorithms/sorting/top_k_frequent_elements.py)
      * 451.Sort Characters By Frequency:
-     [problem descripiton](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [solution](algorithms/sorting/sort_characters_by_frequency.py)
+     [problem description](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [solution](algorithms/sorting/sort_characters_by_frequency.py)
      * 75.Sort Colors:
-     [problem descripiton](https://leetcode.com/problems/sort-colors/description/) | [solution](algorithms/sorting/sort_colors.py)
+     [problem description](https://leetcode.com/problems/sort-colors/description/) | [solution](algorithms/sorting/sort_colors.py)
 
 #### Divide and Conquer
-  1. Related problems:
+  1. Problem and Solution:
      * 241.Different Ways to Add Parentheses: 
-     [problem descripiton](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [solution](algorithms/divide_and_conquer/different_ways_to_add_parentheses.py)
+     [problem description](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [solution](algorithms/divide_and_conquer/different_ways_to_add_parentheses.py)
      * **95.Unique Binary Search Trees II:** 
-     [problem descripiton](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](algorithms/divide_and_conquer/unique_binary_search_trees.py)
+     [problem description](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](algorithms/divide_and_conquer/unique_binary_search_trees.py)
        
 #### Greedy Algorithm
-  1. Related problems:
+  1. Problem and Solution:
      * 455.Assign Cookies: 
-     [problem descripiton](https://leetcode.com/problems/assign-cookies/description/) | [solution](algorithms/greedy_algorithm/assign_cookies.py)
+     [problem description](https://leetcode.com/problems/assign-cookies/description/) | [solution](algorithms/greedy_algorithm/assign_cookies.py)
      * 435.Non-overlapping Intervals: 
-     [problem descripiton](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](algorithms/greedy_algorithm/non_overlapping_intervals.py)
+     [problem description](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](algorithms/greedy_algorithm/non_overlapping_intervals.py)
      * 452.Minimum Number of Arrows to Burst Balloons: 
-     [problem descripiton](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [solution](algorithms/greedy_algorithm/min_num_arrows.py)
+     [problem description](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [solution](algorithms/greedy_algorithm/min_num_arrows.py)
      * 406.Queue Reconstruction by Height: 
-     [problem descripiton](LeetCode/algorithms/greedy_algorithm/min_num_arrows.py) <!--| [solution]()-->
+     [problem description](LeetCode/algorithms/greedy_algorithm/min_num_arrows.py) <!--| [solution]()-->
      * 121.Best Time to Buy and Sell Stock: 
-     [problem descripiton](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
+     [problem description](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
      * **122.Best Time to Buy and Sell Stock II:** 
-     [problem descripiton](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
+     [problem description](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [solution](algorithms/greedy_algorithm/best_time_to_buy_and_sell_stock.py)
      * 605.Can Place Flowers: 
-     [problem descripiton](https://leetcode.com/problems/can-place-flowers/description/) | [solution](algorithms/greedy_algorithm/can_place_flowers.py)
+     [problem description](https://leetcode.com/problems/can-place-flowers/description/) | [solution](algorithms/greedy_algorithm/can_place_flowers.py)
      * **392.Is Subsequence:** 
-     [problem descripiton](https://leetcode.com/problems/is-subsequence/description/) | [solution](algorithms/greedy_algorithm/is_subsequence.py)
+     [problem description](https://leetcode.com/problems/is-subsequence/description/) | [solution](algorithms/greedy_algorithm/is_subsequence.py)
      * **665.Non-decreasing Array:** 
-     [problem descripiton](https://leetcode.com/problems/non-decreasing-array/description/) | [solution](algorithms/greedy_algorithm/non_decreasing_array.py)
+     [problem description](https://leetcode.com/problems/non-decreasing-array/description/) | [solution](algorithms/greedy_algorithm/non_decreasing_array.py)
      * 53.Maximum Subarray: 
-     [problem descripiton](https://leetcode.com/problems/maximum-subarray/description/) | [solution](algorithms/greedy_algorithm/max_subarray.py)
+     [problem description](https://leetcode.com/problems/maximum-subarray/description/) | [solution](algorithms/greedy_algorithm/max_subarray.py)
      * **763.Partition Labels:**
-     [problem descripiton](https://leetcode.com/problems/partition-labels/description/) | [solution](algorithms/greedy_algorithm/partition_label.py) 
+     [problem description](https://leetcode.com/problems/partition-labels/description/) | [solution](algorithms/greedy_algorithm/partition_label.py) 
      
 #### Dynamic Programming
-  1. Related problems:
-<!-- [problem descripiton]() | [solution]() -->
-   
+  1. Problem and Solution:
+     * 70.Climbing Stairs:
+      [problem description](https://leetcode.com/problems/climbing-stairs/description/) | [solution](algorithms/dynamical_programming/climbing_stairs.py)
+     * 198.House Robber:
+      [problem description](https://leetcode.com/problems/house-robber/description/) | [solution](algorithms/dynamical_programming/house_robber.py)
+     * 213.House Robber II:
+      [problem description](https://leetcode.com/problems/house-robber-ii/description/) | [solution](algorithms/dynamical_programming/house_robber.py)
+     * 64.Minimum Path Sum:
+      [problem description](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](algorithms/dynamical_programming/minimum_path_sum.py)
+     * **62.Unique Paths:**
+      [problem description](https://leetcode.com/problems/unique-paths/description/) | [solution](algorithms/dynamical_programming/unique_path.py)
+     * 303.Range Sum Query:
+      [problem description]() | [solution]()
+     * 413.Arithmetic Slices:
+      [problem description]() | [solution]()
+<!-- [problem description]() | [solution]() -->
+
 #### Maths
-<!-- [problem descripiton]() | [solution]() -->
-  1. Related problems:
+<!-- [problem description]() | [solution]() -->
+  1. Problem and Solution:
 
 
 
