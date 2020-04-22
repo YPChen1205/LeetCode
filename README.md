@@ -281,9 +281,15 @@ The overview of those problems is listed in follow. These problems are mainly di
      * **62.Unique Paths:**
       [problem description](https://leetcode.com/problems/unique-paths/description/) | [solution](algorithms/dynamical_programming/unique_path.py)
      * 303.Range Sum Query:
-      [problem description]() | [solution]()
-     * 413.Arithmetic Slices:
-      [problem description]() | [solution]()
+      [problem description](https://leetcode.com/problems/range-sum-query-immutable/description/) | [solution](algorithms/dynamical_programming/range_sum_query.py)
+     * **413.Arithmetic Slices:**
+      [problem description](https://leetcode.com/problems/arithmetic-slices/description/) | [solution](algorithms/dynamical_programming/arithmetic_slices.py)
+     * **343.Integer Break:**
+      [problem description](https://leetcode.com/problems/integer-break/description/) | [solution](algorithms/dynamical_programming/Integer_break.py)
+     * **279.Perfect Squares:**
+      [problem description](https://leetcode.com/problems/perfect-squares/description/) | [solution](algorithms/dynamical_programming/perfect_square.py)
+     * 91.Decode Ways:
+      [problem description](https://leetcode.com/problems/decode-ways/description/) | [solution](algorithms/dynamical_programming/decode_ways.py)
 <!-- [problem description]() | [solution]() -->
 
 #### Maths
