@@ -290,6 +290,17 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/perfect-squares/description/) | [solution](algorithms/dynamical_programming/perfect_square.py)
      * 91.Decode Ways:
       [problem description](https://leetcode.com/problems/decode-ways/description/) | [solution](algorithms/dynamical_programming/decode_ways.py)
+     * 300.Longest Increasing Subsequence:
+     [problem description](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](LeetCode/algorithms/dynamical_programming/longest_increasing_subsequence.py)
+     * 646.Maximum Length of Pair Chain(similiar to 300):
+     [problem description](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [solution](maximum_length_of_pair_chain.py)
+     * 376.Wiggle Subsequence:
+     [problem description]() | [solution]()
+     * 1143.Longest Common Subsequence:
+     [problem description]() | [solution]()
+     * 416.Partition Equal Subset Sum:
+     [problem description]() | [solution]() 
+
 <!-- [problem description]() | [solution]() -->
 
 #### Maths
@@ -298,5 +309,5 @@ The overview of those problems is listed in follow. These problems are mainly di
 
 
 
-The flitered list comes from [CyC2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md).
-you can also find the java solutions for this problem list there.
+The filtered list comes from [CyC2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md).
+you can also find the java solutions for it there.
