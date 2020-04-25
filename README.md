@@ -295,17 +295,17 @@ The overview of those problems is listed in follow. These problems are mainly di
      * 646.Maximum Length of Pair Chain(similiar to 300):
      [problem description](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [solution](maximum_length_of_pair_chain.py)
      * 376.Wiggle Subsequence:
-     [problem description]() | [solution]()
-     * 1143.Longest Common Subsequence:
-     [problem description]() | [solution]()
-     * 416.Partition Equal Subset Sum:
-     [problem description]() | [solution]() 
+     [problem description](https://leetcode.com/problems/wiggle-subsequence/) | [solution](algorithms/dynamical_programming/wiggle_subsequence.py)
+     * `1143.Longest Common Subsequence:`
+     [problem description](https://leetcode.com/problems/longest-common-subsequence/) | [solution](algorithms/dynamical_programming/longest_common_subsequence.py)
+     * **416.Partition Equal Subset Sum:**
+     [problem description](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [solution](algorithms/dynamical_programming/partition_equal_subset_sum.py) 
 
 <!-- [problem description]() | [solution]() -->
 
 #### Maths
 <!-- [problem description]() | [solution]() -->
-  1. Problem and Solution:
+  1. Problem and Solution
 
 
 
