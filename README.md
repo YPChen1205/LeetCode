@@ -34,11 +34,16 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [solution](data_structures/linked_list/remove_duplicates_from_sorted_list.py)
      * 19.Remove Nth Node From End of List: 
      [problem description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [solution](data_structures/linked_list/remove_nth_from_end.py)
-     <!-- * 24.Swap Nodes in Pairs
-     * 445.Add Two Numbers II
-     * 234.Palindrome Linked List
-     * 725.Split Linked List in Parts
-     * 328.Odd Even Linked List -->
+     * 24.Swap Nodes in Pairs:
+     [problem description](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [solution](data_structures/linked_list/swap_nodes_in_pairs.py)
+     * 445.Add Two Numbers II:
+     [problem description](https://leetcode.com/problems/add-two-numbers-ii/description/) | [solution](data_structures/linked_list/add_two_numbers.py)
+     * 234.Palindrome Linked List:
+     [problem description](https://leetcode.com/problems/palindrome-linked-list/description/) | [solution](data_structures/linked_list/palindrome_linked_list.py)
+     * **725.Split Linked List in Parts:**
+     [problem description](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [solution](data_structures/linked_list/split_linked_list_in_parts.py)
+     * 328.Odd Even Linked List:
+     [problem description](https://leetcode.com/problems/odd-even-linked-list/description/) | [solution](data_structures/linked_list/odd_even_linked_list.py)
 
 #### Hash Table:
   1. Problem and Solution:
@@ -292,7 +297,7 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/decode-ways/description/) | [solution](algorithms/dynamical_programming/decode_ways.py)
      * 300.Longest Increasing Subsequence:
      [problem description](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](LeetCode/algorithms/dynamical_programming/longest_increasing_subsequence.py)
-     * 646.Maximum Length of Pair Chain(similiar to 300):
+     * 646.Maximum Length of Pair Chain(similar to 300):
      [problem description](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) | [solution](maximum_length_of_pair_chain.py)
      * 376.Wiggle Subsequence:
      [problem description](https://leetcode.com/problems/wiggle-subsequence/) | [solution](algorithms/dynamical_programming/wiggle_subsequence.py)
