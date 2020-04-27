@@ -53,7 +53,9 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/longest-harmonious-subsequence/) | [solution](data_structures/hash_table/longest_harmonius_subsequence.py)
       * 128.Longest Consecutive Sequence: 
      [problem description](https://leetcode.com/problems/longest-consecutive-sequence/) | [solution](data_structures/hash_table/longest_consecutive_sequence.py)
-             
+     <!-- [problem description]() | [solution]()
+     217. Contains Duplicate 
+     -->
 #### Array and Matrix
   1. Problem and Solution:   
      * **283.Move Zeroes**: 
@@ -135,19 +137,46 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)  
       * 617.Merge Two Binary Trees: 
       [problem description](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)  
-
+      <!-- [problem description]() | [solution]()
+      112. Path Sum
+      437. Path Sum III
+      572. Subtree of Another Tree
+      101. Symmetric Tree
+      111. Minimum Depth of Binary Tree
+      404. Sum of Left Leaves
+      687. Longest Univalue Path
+      337. House Robber III 
+      671. Second Minimum Node In a Binary Tree 
+      -->
    2. Traverse a tree:  
       * 637.Average of Levels in Binary Tree:
-      [problem description](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)  
+      [problem description](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [solution](data_structures/tree/average_of_levels_in_binary_tree.py)
       * 513.Find Bottom Left Tree Value:
-      [problem description](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)  
+      [problem description](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [solution](data_structures/tree/find_bottom_left_tree_value.py)
       * **144.Binary Tree Preorder Traversal:**
-      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_preorder_traversal.py) 
       * 145.Binary Tree Postorder Traversal:
-      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](data_structures/tree/binary_tree_postorder_traversal.py)
       * **94.Binary Tree Inorder Traversal:**
-      [problem description](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)  
+      [problem description](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)
 
+      <!-- [problem description]() | [solution]()
+      3. BST
+           669. Trim a Binary Search Tree
+           230. Kth Smallest Element in a BST
+           538. Convert BST to Greater Tree
+           235. Lowest Common Ancestor of a Binary Search Tree
+           236. Lowest Common Ancestor of a Binary Tree
+           108. Convert Sorted Array to Binary Search Tree
+           109. Convert Sorted List to Binary Search Tree
+           653. Two Sum IV
+           530. Minimum Absolute Difference in BST
+           501. Find Mode in Binary Search Tree
+           
+        5. Trie
+           208. Implement Trie
+           677. Map Sum Pairs 
+       -->
 
 
 #### Graph
@@ -201,7 +230,6 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/surrounded-regions/description/) | [solution](algorithms/search/DFS/surrounded_regions.py)
       * 417.Pacific Atlantic Water Flow:
       [problem description](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [solution](algorithms/search/DFS/pacific_atlantic_water_flow.py) 
-      <!-- [problem description]() | [solution]() -->
       
    3. Backtracking
       * 17.Letter Combinations of a Phone Number: 
@@ -214,7 +242,18 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](algorithms/search/Backtracking/binary_tree_path.py)
       * 46.Permutations: 
       [problem description](https://leetcode.com/problems/permutations/description/) | [solution](algorithms/search/Backtracking/permutation.py)
-      <!-- [problem description]() | [solution]() -->
+      <!-- [problem description]() | [solution]()
+       47. Permutations II
+       77. Combinations
+       39. Combination Sum
+       40. Combination Sum II
+       216. Combination Sum III
+       78. Subsets
+       90. Subsets II
+       131. Palindrome Partitioning
+       37. Sudoku Solver
+       51. N-Queens
+       -->
           
    4. Binary Search
       * 69.Sqrt(x): 
@@ -305,8 +344,23 @@ The overview of those problems is listed in follow. These problems are mainly di
      [problem description](https://leetcode.com/problems/longest-common-subsequence/) | [solution](algorithms/dynamical_programming/longest_common_subsequence.py)
      * **416.Partition Equal Subset Sum:**
      [problem description](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [solution](algorithms/dynamical_programming/partition_equal_subset_sum.py) 
-
-<!-- [problem description]() | [solution]() -->
+     * **494.Target Sum:**
+     [problem description](https://leetcode.com/problems/target-sum/description/) | [solution](algorithms/dynamical_programming/target_sum.py)
+     * `474.Ones and Zeroes:`
+     [problem description](https://leetcode.com/problems/ones-and-zeroes/description/) | [solution](algorithms/dynamical_programming/ones_and_zeroes.py)
+     <!-- [problem description]() | [solution]()
+     322. Coin Change
+     518. Coin Change 2
+     139. Word Break
+     377. Combination Sum IV
+     309. Best Time to Buy and Sell Stock with Cooldown
+     714. Best Time to Buy and Sell Stock with Transaction Fee
+     123. Best Time to Buy and Sell Stock III
+     188. Best Time to Buy and Sell Stock IV
+     583. Delete Operation for Two Strings
+     72. Edit Distance
+     650. 2 Keys Keyboard
+     -->
 
 #### Maths
 <!-- [problem description]() | [solution]() -->
