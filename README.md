@@ -242,9 +242,11 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](algorithms/search/Backtracking/binary_tree_path.py)
       * 46.Permutations: 
       [problem description](https://leetcode.com/problems/permutations/description/) | [solution](algorithms/search/Backtracking/permutation.py)
+      * `47. Permutations II:`
+      [problem description](https://leetcode.com/problems/permutations-ii/description/) | [solution](algorithms/search/Backtracking/permutation_two.py)
+      * 77. Combinations:
+      [problem description](https://leetcode.com/problems/combinations/description/) | [solution](algorithms/search/Backtracking/combinations.py)
       <!-- [problem description]() | [solution]()
-       47. Permutations II
-       77. Combinations
        39. Combination Sum
        40. Combination Sum II
        216. Combination Sum III
