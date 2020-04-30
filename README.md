@@ -246,14 +246,17 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/permutations-ii/description/) | [solution](algorithms/search/Backtracking/permutation_two.py)
       * 77.Combinations:
       [problem description](https://leetcode.com/problems/combinations/description/) | [solution](algorithms/search/Backtracking/combinations.py)
-      * 39. Combination Sum:
+      * 39. Combination Sum(similar to 46):
       [problem description](https://leetcode.com/problems/combination-sum/description/) | [solution](algorithms/search/Backtracking/combination_sum.py)
-      * `40. Combination Sum II:`
-      [problem description](https://leetcode.com/problems/combination-sum-ii/description/) |  <!-- [solution](algorithms/search/Backtracking/combination_sum_two.py) -->
+      * 40. Combination Sum II(similar to 47):
+      [problem description](https://leetcode.com/problems/combination-sum-ii/description/) |  [solution](algorithms/search/Backtracking/combination_sum_two.py)
+      * 216.Combination Sum III:
+      [problem description](https://leetcode.com/problems/combination-sum-iii/description/) | [solution](algorithms/search/Backtracking/combination_sum_three.py)
+      * 78.Subsets:
+      [problem description]() | [solution]()
+      * 90.Subsets II:
+      [problem description]() | [solution]()
       <!-- [problem description]() | [solution]()
-       216. Combination Sum III
-       78. Subsets
-       90. Subsets II
        131. Palindrome Partitioning
        37. Sudoku Solver
        51. N-Queens

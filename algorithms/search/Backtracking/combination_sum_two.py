@@ -19,7 +19,7 @@ def _backtrack(comb, res, visited, start, target, candidates):
         res.append(deepcopy(comb))
         return
     for i in range(start, len(candidates)):
-        if i == 0 and candidates[i] == candidates[i - 1] and not visited[i - 1]:
+        if i != 0 and candidates[i] == candidates[i - 1] and not visited[i - 1]:
             continue
         if candidates[i] <= target:
             comb.append(candidates[i])
