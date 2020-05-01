@@ -252,10 +252,10 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/combination-sum-ii/description/) |  [solution](algorithms/search/Backtracking/combination_sum_two.py)
       * 216.Combination Sum III:
       [problem description](https://leetcode.com/problems/combination-sum-iii/description/) | [solution](algorithms/search/Backtracking/combination_sum_three.py)
-      * 78.Subsets:
-      [problem description]() | [solution]()
-      * 90.Subsets II:
-      [problem description]() | [solution]()
+      * **78.Subsets:**
+      [problem description](https://leetcode.com/problems/subsets/description/) | [solution](algorithms/search/Backtracking/subsets.py)
+      * **_90.Subsets II:_**
+      [problem description](https://leetcode.com/problems/subsets-ii/description/) | [solution](algorithms/search/Backtracking/subsets_two.py)([analysis](https://www.youtube.com/watch?v=0ElTC4XiDvc))
       <!-- [problem description]() | [solution]()
        131. Palindrome Partitioning
        37. Sudoku Solver
