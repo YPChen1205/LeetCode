@@ -163,13 +163,15 @@ The overview of those problems is listed in follow. These problems are mainly di
   3. BST
       * 669.Trim a Binary Search Tree:
       [problem description](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/trim_bst.py)
-      * 230.Kth Smallest Element in a BST:
+      * **230.Kth Smallest Element in a BST:**
       [problem description](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](data_structures/tree/binary_search_tree/kth_smallest_element_in_bst.py)
-  
-      <!-- [problem description]() | [solution]()
-           538. Convert BST to Greater Tree
-           235. Lowest Common Ancestor of a Binary Search Tree
-           236. Lowest Common Ancestor of a Binary Tree
+      * 538.Convert BST to Greater Tree:
+      [problem description](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | [solution](data_structures/tree/binary_search_tree/covert_bst_to_creater_tree.py)
+      * 235.Lowest Common Ancestor of a Binary Search Tree:
+      [problem description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/lca_of_bst.py)
+      * **236.Lowest Common Ancestor of a Binary Tree:**
+      [problem description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](data_structures/tree/binary_search_tree/lca_of_bt.py)[[analysis](https://www.youtube.com/watch?v=WqNULaUhPCc)]
+      <!-- [problem description]() | [solution](data_structures/tree/binary_search_tree/)
            108. Convert Sorted Array to Binary Search Tree
            109. Convert Sorted List to Binary Search Tree
            653. Two Sum IV
