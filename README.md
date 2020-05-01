@@ -160,10 +160,13 @@ The overview of those problems is listed in follow. These problems are mainly di
       * **94.Binary Tree Inorder Traversal:**
       [problem description](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](data_structures/tree/binary_tree_inorder_traversal.py)
 
+  3. BST
+      * 669.Trim a Binary Search Tree:
+      [problem description](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/trim_bst.py)
+      * 230.Kth Smallest Element in a BST:
+      [problem description](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](data_structures/tree/binary_search_tree/kth_smallest_element_in_bst.py)
+  
       <!-- [problem description]() | [solution]()
-      3. BST
-           669. Trim a Binary Search Tree
-           230. Kth Smallest Element in a BST
            538. Convert BST to Greater Tree
            235. Lowest Common Ancestor of a Binary Search Tree
            236. Lowest Common Ancestor of a Binary Tree
@@ -173,7 +176,7 @@ The overview of those problems is listed in follow. These problems are mainly di
            530. Minimum Absolute Difference in BST
            501. Find Mode in Binary Search Tree
            
-        5. Trie
+        4. Trie
            208. Implement Trie
            677. Map Sum Pairs 
        -->
@@ -255,7 +258,7 @@ The overview of those problems is listed in follow. These problems are mainly di
       * **78.Subsets:**
       [problem description](https://leetcode.com/problems/subsets/description/) | [solution](algorithms/search/Backtracking/subsets.py)
       * **_90.Subsets II:_**
-      [problem description](https://leetcode.com/problems/subsets-ii/description/) | [solution](algorithms/search/Backtracking/subsets_two.py)([analysis](https://www.youtube.com/watch?v=0ElTC4XiDvc))
+      [problem description](https://leetcode.com/problems/subsets-ii/description/) | [solution](algorithms/search/Backtracking/subsets_two.py)[[analysis](https://www.youtube.com/watch?v=0ElTC4XiDvc)]
       <!-- [problem description]() | [solution]()
        131. Palindrome Partitioning
        37. Sudoku Solver
