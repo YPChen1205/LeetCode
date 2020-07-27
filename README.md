@@ -137,9 +137,11 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](data_structures/tree/invert_binary_tree.py)  
       * 617.Merge Two Binary Trees: 
       [problem description](https://leetcode.com/problems/merge-two-binary-trees/) | [solution](data_structures/tree/merge_two_binary_trees.py)  
+      * 112. Path Sum
+      [problem description](https://leetcode.com/problems/path-sum/description/) | [solution](data_structures/tree/path_sum_i.py)
+      * 437. Path Sum III
+      [problem description](https://leetcode.com/problems/path-sum-iii/description/) | [solution](data_structures/tree/path_sum_iii.py)
       <!-- [problem description]() | [solution]()
-      112. Path Sum
-      437. Path Sum III
       572. Subtree of Another Tree
       101. Symmetric Tree
       111. Minimum Depth of Binary Tree

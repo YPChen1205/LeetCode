@@ -14,7 +14,6 @@ def merge_trees(t1, t2):
     return t1
 
 
-
 if __name__ == '__main__':
     import tree as t
     nodes1 = t.TreeNode.create_nodes([1,3,2,5])
