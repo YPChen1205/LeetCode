@@ -141,10 +141,13 @@ The overview of those problems is listed in follow. These problems are mainly di
       [problem description](https://leetcode.com/problems/path-sum/description/) | [solution](data_structures/tree/path_sum_i.py)
       * 437. Path Sum III
       [problem description](https://leetcode.com/problems/path-sum-iii/description/) | [solution](data_structures/tree/path_sum_iii.py)
+      * 572. Subtree of Another Tree
+      [problem description](https://leetcode.com/problems/subtree-of-another-tree/description/) | [solution](data_structures/tree/subtree_of_another_tree.py)
+      * 101. Symmetric Tree
+      [problem description](https://leetcode.com/problems/symmetric-tree/description/) | [solution](data_structures/tree/symmetric_tree.py)
+      * **111. Minimum Depth of Binary Tree**
+      [problem description](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](data_structures/tree/min_depth_of_binary_tree.py)
       <!-- [problem description]() | [solution]()
-      572. Subtree of Another Tree
-      101. Symmetric Tree
-      111. Minimum Depth of Binary Tree
       404. Sum of Left Leaves
       687. Longest Univalue Path
       337. House Robber III 
