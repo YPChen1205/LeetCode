@@ -179,13 +179,16 @@ The overview of those problems is listed in follow. These problems are mainly di
       * 108.Convert Sorted Array to Binary Search Tree:
       [problem description](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/convert_sorted_array_to_bst.py)
       * 109.Convert Sorted List to Binary Search Tree:
-      [problem description](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/)
+      [problem description](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/convert_sorted_list_to_bst.py)
+      * 653. Two Sum IV
+      [problem description](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [solution](data_structures/tree/binary_search_tree/two_sum_iv.py)
+      * 530. Minimum Absolute Difference in BST
+      [problem description](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [solution](data_structures/tree/binary_search_tree/min_abs_diff.py)
+      * 501. Find Mode in Binary Search Tree
+      [problem description](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/find_mode.py)
+           
       
       <!-- [problem description]() | [solution](data_structures/tree/binary_search_tree/)
-           653. Two Sum IV
-           530. Minimum Absolute Difference in BST
-           501. Find Mode in Binary Search Tree
-           
         4. Trie
            208. Implement Trie
            677. Map Sum Pairs 
