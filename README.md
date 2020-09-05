@@ -187,12 +187,12 @@ The overview of those problems is listed in follow. These problems are mainly di
       * 501. Find Mode in Binary Search Tree
       [problem description](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [solution](data_structures/tree/binary_search_tree/find_mode.py)
            
+   4. Trie
+      * **208. Implement Trie:**
+      [problem description](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [solution](data_structures/tree/Trie/implement_trie.py)
+      * **677. Map Sum Pairs:**
+      [problem description](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](data_structures/tree/Trie/map_sum_pairs.py)
       
-      <!-- [problem description]() | [solution](data_structures/tree/binary_search_tree/)
-        4. Trie
-           208. Implement Trie
-           677. Map Sum Pairs 
-       -->
 
 
 #### Graph
